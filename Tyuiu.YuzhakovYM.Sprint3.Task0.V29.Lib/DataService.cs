@@ -19,6 +19,7 @@ namespace Tyuiu.YuzhakovYM.Sprint3.Task0.V29.Lib
                 sum += term * Math.Cos(value);
             }
             return Math.Round(sum, 3);
+
         }
     }
 }

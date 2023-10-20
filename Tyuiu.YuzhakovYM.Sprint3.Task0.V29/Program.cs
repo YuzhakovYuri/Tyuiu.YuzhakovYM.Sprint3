@@ -13,7 +13,6 @@ namespace Tyuiu.YuzhakovYM.Sprint3.Task0.V29
         static void Main(string[] args)
         {
             DataService ds = new DataService();
-
             Console.Title = "Спринт #3 | Выполнил: Южаков Ю. М. | АСОиУб-23-3";
 
             Console.WriteLine("***************************************************************************");
